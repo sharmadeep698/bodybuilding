@@ -1,0 +1,58 @@
+	*{
+		margin: 0px;
+		font-family: 'Ubuntu', sans-serif;
+		
+		
+		
+	}
+	h1{
+		background-image: url("nitro_tech.png");
+		background-size: contain;
+		padding:400px;	
+		background-repeat: no-repeat;
+		padding: 100px;	
+		text-align: center;		
+		align-items: center;
+		background-position: 50%;
+		
+		}
+
+	header{
+		margin-top: 0px;
+		background-image: url("muscletech.jpg");
+		background-size: contain;
+		background-repeat: no-repeat;
+		background-color: black;
+		padding: 6%;	
+		color: white;
+		transition: 0.75s;
+		position: fixed;
+		width: 100%;
+		margin-bottom: 100px;	
+	}
+	.btn:hover{
+	background-color: white;
+	color: blue;
+	}
+	/*componets*/
+	/*img{
+		margin-top: 20%;
+		 display: block;
+	  	margin-left: auto;
+	  	margin-right: auto;
+	  	width: 50%;	
+	  	}*/
+	a{
+		color: white;
+	}
+	.Work{
+		float: right;
+	}
+
+	div{
+		color: black;
+		z-index: -1;
+	}
+	.hover{
+		transition: 1s;
+	}
